@@ -1,4 +1,6 @@
 Análise de dados de lojas da rede Walmart, com o objetivo de justificar uma loja para a empresa realizar a expansão. 
+Para isso, foi utilziado um modelo de regressão linear para estabelçecer corretamente os índices de crescimento de todas as lojas.
+
 
 Os dados vão de 2010 a 2012.
 
